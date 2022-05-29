@@ -36,3 +36,4 @@ C:\Users\moise\OneDrive\Área de Trabalho\EnqueteWeb\obj\Debug\net5.0\ref\Enquet
 C:\Users\moise\OneDrive\Área de Trabalho\EnqueteWeb\obj\Debug\net5.0\EnqueteWeb.csproj.CopyComplete
 C:\Users\moise\OneDrive\Área de Trabalho\EnqueteWeb\obj\Debug\net5.0\Razor\Views\Home\Obrigado.cshtml.g.cs
 C:\Users\moise\OneDrive\Área de Trabalho\EnqueteWeb\obj\Debug\net5.0\Razor\Views\Home\Resultado.cshtml.g.cs
+C:\Users\moise\OneDrive\Área de Trabalho\EnqueteWeb\bin\Debug\net5.0\libman.json
